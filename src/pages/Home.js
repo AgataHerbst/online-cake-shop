@@ -4,8 +4,8 @@ import "../styles/Home.css";
 
 function Home() {
   return (
-    <div className="home">
-        <div className="headerContainer" style={{ backgroundImage: `url(${BannerImage})`}}>
+    <div className="home" style={{ backgroundImage: `url(${BannerImage})`}}>
+        <div className="headerContainer" >
             <h1> Iris Backer </h1>
             <p> CAKES TO FIT ANY TASTE </p>
             <Link to="/menu">
