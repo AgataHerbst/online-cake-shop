@@ -1,4 +1,4 @@
-import IrisBacker from '../assets/backer1.jpeg';
+import IrisBacker from '../assets/iris3.jpeg';
 import "../styles/About.css";
 
 function About() {

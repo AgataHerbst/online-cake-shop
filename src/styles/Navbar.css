@@ -12,6 +12,7 @@
     display: flex;
     align-items: center;
     padding-left: 150px;
+    font-size: 30px;
   }
   
   .navbar .leftSide img {
@@ -24,6 +25,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    font-size: 30px;
   }
   
   .navbar a {
@@ -73,7 +75,7 @@
     }
     .navbar .leftSide {
       padding-left: 50px;
-    }
+     }
   }
   
   @media only screen and (max-width: 600px) {
@@ -84,7 +86,7 @@
     .navbar .rightSide {
       justify-content: flex-end;
       padding-right: 50px;
-    }
+      }
   
     .navbar .rightSide button {
       display: inherit;

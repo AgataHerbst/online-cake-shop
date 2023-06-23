@@ -22,14 +22,14 @@
   font-size: 90px;
   height: 60px;
   font-weight: 50;
-  color:#696969;
+  color:#FF1493;
 }
 
 .headerContainer p {
   padding: 0;
   font-size: 40px;
   font-weight: lighter;
-  color: black;
+  color:#FF1493;
 }
 
 .headerContainer button {
@@ -56,9 +56,6 @@
   .home {
     justify-content: center;
     align-items: center;
-  }
-  .headerContainer h1,
-  .headerContainer p {
   }
 
   .headerContainer {

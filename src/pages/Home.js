@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import BannerImage from "../assets/cake.jpeg";
+import BannerImage from "../assets/kapkeik.jpeg";
 import "../styles/Home.css";
 
 function Home() {

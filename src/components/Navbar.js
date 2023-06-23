@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Logo from "../assets/cakeLogo.png";
+import Logo from "../assets/weddingCake.png";
 import { Link } from "react-router-dom";
 import "../styles/Navbar.css";
 import ReorderIcon from '@mui/icons-material/Reorder';
