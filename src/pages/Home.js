@@ -8,7 +8,7 @@ function Home() {
         <div className="headerContainer" >
             <h1> Iris Backer </h1>
             <p> CAKES TO FIT ANY TASTE </p>
-            <Link to="/menu">
+            <Link to="/galleries">
             <button> ORDER NOW </button>
             </Link>
         </div>
